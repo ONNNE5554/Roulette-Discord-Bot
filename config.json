@@ -1,5 +1,5 @@
 {
-  "startTime": 10,
+  "startTime": 30,
   "chooseTimeout": 15,
-  "timeBetweenRounds": 10
+  "timeBetweenRounds": 30
 }
